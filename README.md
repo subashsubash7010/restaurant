@@ -216,6 +216,8 @@ Publish the website in the given URL.
 # OUTPUT:
 ![alt text](<Screenshot 2024-12-07 005917.png>)
 ![alt text](<Screenshot 2024-12-07 005933.png>)
+![WhatsApp Image 2024-12-21 at 16 13 59_7141b8c8](https://github.com/user-attachments/assets/c410e715-d735-4ab0-bd3d-5304787a3354)
 ![alt text](<Screenshot 2024-12-07 005959.png>)
+
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
